@@ -1,0 +1,57 @@
+body {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+
+.container {
+  position: relative;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid rgb(186, 184, 184);;
+  flex-direction: column;
+  padding: 30px;
+}
+
+.collapse-wrapper {
+  border: 1px solid rgb(186, 184, 184);
+  border-radius: 5px;
+  padding: 10px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.collapse-button {
+  width: 100px;
+  background-color: rgb(44, 144, 108);
+  border: 1px solid rgb(186, 184, 184);
+  border-radius: 2px;
+  margin: auto;
+}
+
+.collapse-button:hover {
+  background-color: rgb(101, 184, 153);
+}
+
+.collapse-button:active {
+  background-color: rgb(33, 79, 62);
+}
+
+.collapse {
+  margin-top: 10px;
+  max-height: 0;
+  overflow: hidden;
+  transition: all 0.6s ease-in-out;
+}
+
+.move {
+  max-height: 150px;
+  transition: all 0.6s ease-in-out;
+}
