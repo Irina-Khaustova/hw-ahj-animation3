@@ -2,7 +2,7 @@ body {
   position: relative;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   height: 500px;
 }
 
@@ -10,7 +10,7 @@ body {
   position: relative;
   width: 300px;
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   border: 1px solid rgb(186, 184, 184);;
   flex-direction: column;
@@ -24,7 +24,7 @@ body {
   overflow: hidden;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   flex-direction: column;
 }
 

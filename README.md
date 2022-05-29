@@ -1,1 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/jo8kwbdfl7113qw2?svg=true)](https://ci.appveyor.com/project/Irina-Khaustova/hw-ahj-animation1)
+[![Build status](https://ci.appveyor.com/api/projects/status/0gfkuc8h7q8vn2nl?svg=true)](https://ci.appveyor.com/project/Irina-Khaustova/hw-ahj-animation3)
+
+https://github.com/Irina-Khaustova/hw-ahj-animation3/deployments/activity_log?environment=github-pages
